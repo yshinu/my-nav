@@ -1,0 +1,1 @@
+export const ADMIN_SECRET_KEY = process.env.ADMIN_SECRET_KEY || "yshinu";
